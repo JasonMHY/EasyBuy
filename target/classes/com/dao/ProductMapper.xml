@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+<mapper namespace="com.dao.ProductMapper">
+    <select id="itemType" resultType="com.entity.Product" parameterType="java.lang.Integer">
+        SELECT * from easybuy_product p,easybuy_product_category pc
+        where p.categoryLevel2Id=pc.id AND  p.categoryLevel1Id=#{categoryLevel1Id} GROUP BY pc.name
+    </select>
+    <select id="Blurb" resultType="com.entity.Product" parameterType="java.lang.Integer">
+       SELECT * from easybuy_product where categoryLevel1Id=#{categoryLevel1Id} ORDER BY id
+    </select>
+    <select id="findName" resultType="com.entity.Product" parameterType="java.lang.String">
+        select * from easybuy_product where name like CONCAT('%',#{name},'%')
+    </select>
+    <select id="threeFindShop" resultType="com.entity.Product" parameterType="java.lang.Integer">
+        SELECT * from easybuy_product where categoryLevel3Id = #{categoryLevel3Id}
+    </select>
+    <select id="twoFindShop" resultType="com.entity.Product" parameterType="java.lang.Integer">
+        SELECT * from easybuy_product where categoryLevel2Id = #{categoryLevel2Id}
+    </select>
+    <select id="Details" resultType="com.entity.Product" parameterType="java.lang.Integer">
+        SELECT * from easybuy_product where id = #{id}
+    </select>
+</mapper>
