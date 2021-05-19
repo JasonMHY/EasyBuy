@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28c2dbfc-70d9-408b-8fd4-902329d2773b" name="默认更改列表" comment="" />
+    <list default="true" id="28c2dbfc-70d9-408b-8fd4-902329d2773b" name="默认更改列表" comment="5-19">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +24,7 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -98,7 +101,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\80537\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -129,12 +132,24 @@
       <workItem from="1621234448288" duration="2106000" />
       <workItem from="1621320701866" duration="6729000" />
       <workItem from="1621383842356" duration="6525000" />
-      <workItem from="1621407455217" duration="618000" />
+      <workItem from="1621407455217" duration="1563000" />
     </task>
+    <task id="LOCAL-00001" summary="5-19">
+      <created>1621408286839</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621408286839</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="5-19" />
+    <option name="LAST_COMMIT_MESSAGE" value="5-19" />
   </component>
   <component name="WindowStateProjectService">
     <state x="479" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619656962770">
@@ -157,18 +172,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="722" y="397" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1619594917272" />
-    <state x="462" y="107" key="CommitChangelistDialog2" timestamp="1621408227000">
+    <state x="462" y="107" key="CommitChangelistDialog2" timestamp="1621408320374">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="462" y="107" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1621408227000" />
-    <state x="844" y="310" key="FileChooserDialogImpl" timestamp="1621408072361">
+    <state x="462" y="107" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1621408320374" />
+    <state x="844" y="310" key="FileChooserDialogImpl" timestamp="1621408925867">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="844" y="310" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1621408072361" />
+    <state x="844" y="310" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1621408925867" />
     <state x="785" y="434" width="373" height="172" key="Github.CreateGistDialog" timestamp="1621408092371">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="785" y="434" width="373" height="172" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621408092371" />
+    <state x="667" y="340" width="737" height="383" key="Github.ShareDialog" timestamp="1621408543708">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="340" width="737" height="383" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621408543708" />
     <state width="1877" height="344" key="GridCell.Tab.0.bottom" timestamp="1621392318194">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -225,6 +244,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="418" y="116" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1621408058194" />
+    <state x="754" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1621408349182">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="754" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1621408349182" />
+    <state x="741" y="398" key="git4idea.rebase.GitRebaseDialog" timestamp="1621408961565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="741" y="398" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621408961565" />
     <state x="334" y="227" key="new project wizard" timestamp="1621236826821">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -233,5 +260,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1619352324575" />
+    <state x="790" y="314" key="svn.repositoryBrowser" timestamp="1621408919111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="314" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1621408919111" />
+    <state x="767" y="295" key="svn4idea.import.options" timestamp="1621408870639">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="767" y="295" key="svn4idea.import.options/0.0.1920.1040@0.0.1920.1040" timestamp="1621408870639" />
   </component>
 </project>
