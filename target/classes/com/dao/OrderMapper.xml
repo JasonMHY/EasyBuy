@@ -4,8 +4,8 @@
 
 <mapper namespace="com.dao.OrderMapper">
     <insert id="addOrder" parameterType="com.entity.Order">
-        INSERT into easybuy_order(loginName,userAddress,createTime,cost,serialNumber)
-        VALUES(#{loginName},#{userAddress},now(),#{cost},#{serialNumber})
+        INSERT into easybuy_order(loginName,userId,userAddress,createTime,cost,serialNumber)
+        VALUES(#{loginName},#{userId},#{userAddress},now(),#{cost},#{serialNumber})
     </insert>
     <select id="findByid" resultType="java.lang.Integer" parameterType="java.lang.String">
         select id from easybuy_order where serialNumber=#{serialNumber}

@@ -22,4 +22,7 @@
     <select id="Details" resultType="com.entity.Product" parameterType="java.lang.Integer">
         SELECT * from easybuy_product where id = #{id}
     </select>
+    <update id="alterRepertoryById" parameterType="java.lang.Integer">
+        update easybuy_product set stock=stock-#{stock} where id=#{id}
+    </update>
 </mapper>

@@ -11,4 +11,5 @@ public interface ProductService {
     List<Product> threeFindShop(int categoryLevel3Id);
     List<Product> twoFindShop(int categoryLevel2Id);
     List<Product> Details(int id);
+    int alterRepertoryById(int stock,int id);
 }

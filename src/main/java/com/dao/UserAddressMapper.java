@@ -8,4 +8,5 @@ import java.util.List;
 @Mapper
 public interface UserAddressMapper {
     List<UserAddress> findId(int id);
+    String findAddress(int id);
 }

@@ -44,4 +44,9 @@ public class ProductServiceImpl implements ProductService {
     public List<Product> Details(int id) {
         return productMapper.Details(id);
     }
+
+    @Override
+    public int alterRepertoryById(int stock, int id) {
+        return productMapper.alterRepertoryById(stock,id);
+    }
 }

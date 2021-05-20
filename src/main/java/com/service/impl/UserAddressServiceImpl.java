@@ -15,4 +15,9 @@ public class UserAddressServiceImpl implements UserAddressService {
     public List<UserAddress> findId(int id) {
         return userAddressMapper.findId(id);
     }
+
+    @Override
+    public String findAddress(int id) {
+        return userAddressMapper.findAddress(id);
+    }
 }

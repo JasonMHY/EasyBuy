@@ -13,4 +13,5 @@ public interface ProductMapper {
     List<Product> threeFindShop(int categoryLevel3Id);//三级导航点击
     List<Product> twoFindShop(int categoryLevel2Id);//二级导航点击
     List<Product> Details(int id);//商品详情
+    int alterRepertoryById(int stock,int id);//减少库存
  }

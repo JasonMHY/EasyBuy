@@ -6,6 +6,8 @@
 <select id="findId" parameterType="java.lang.Integer" resultType="com.entity.UserAddress">
     SELECT * from easybuy_user_address where userId=#{id}
 </select>
-
+<select id="findAddress" parameterType="java.lang.Integer" resultType="java.lang.String">
+    select address from easybuy_user_address where id=#{id}
+</select>
 
 </mapper>
