@@ -2,87 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28c2dbfc-70d9-408b-8fd4-902329d2773b" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/controller/AdminController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/css/custom-styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/font-awesome/fonts/fontawesome-webfontba72.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/font-awesome/fonts/fontawesome-webfontba72.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/font-awesome/fonts/fontawesome-webfontba72.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/font-awesome/fonts/fontawesome-webfontba72.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/font-awesome/fonts/fontawesome-webfontd41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/fonts/glyphicons-halflings-regulard41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/img/bg-img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/Lightweight-Chart/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/Lightweight-Chart/chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/Lightweight-Chart/cssCharts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/Lightweight-Chart/index - Copy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/Lightweight-Chart/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/Lightweight-Chart/jquery.chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/Lightweight-Chart/jquery.chart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/chart-data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/chart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/custom-scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/dataTables/dataTables.bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/dataTables/dataTables.bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/dataTables/jquery.dataTables.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/easypiechart-data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/easypiechart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/jquery-1.10.2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/jquery.metisMenu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/morris/morris-0.4.3.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/morris/morris.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/js/morris/raphael-2.1.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/materialize/css/materialize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/materialize/css/materialize.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/materialize/fonts/roboto/Roboto-Bold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/materialize/fonts/roboto/Roboto-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/materialize/fonts/roboto/Roboto-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/materialize/fonts/roboto/Roboto-Bold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/materialize/fonts/roboto/Roboto-Light.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/materialize/fonts/roboto/Roboto-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/materialize/fonts/roboto/Roboto-Light.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/materialize/fonts/roboto/Roboto-Light.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/materialize/fonts/roboto/Roboto-Medium.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/materialize/fonts/roboto/Roboto-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/materialize/fonts/roboto/Roboto-Medium.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/materialize/fonts/roboto/Roboto-Medium.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/materialize/fonts/roboto/Roboto-Regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/materialize/fonts/roboto/Roboto-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/materialize/fonts/roboto/Roboto-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/materialize/fonts/roboto/Roboto-Regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/materialize/fonts/roboto/Roboto-Thin.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/materialize/fonts/roboto/Roboto-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/materialize/fonts/roboto/Roboto-Thin.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/materialize/fonts/roboto/Roboto-Thin.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/materialize/js/materialize.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/assets/materialize/js/materialize.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/chart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/empty.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/tab-panel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/table.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/ui-elements.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EasyBuy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/EasyBuy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/EasyBuy.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dao/ProductMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dao/ProductMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dao/ProductMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dao/ProductMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/service/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/service/ProductService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/service/impl/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/service/impl/ProductServiceImpl.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +142,7 @@
       <workItem from="1621407455217" duration="7001000" />
       <workItem from="1621470137399" duration="8176000" />
       <workItem from="1621768163266" duration="113000" />
-      <workItem from="1621839236024" duration="2111000" />
+      <workItem from="1621839236024" duration="3383000" />
     </task>
     <task id="LOCAL-00001" summary="5-19">
       <created>1621408286839</created>
@@ -250,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621473551970</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="5-24">
+      <created>1621849390443</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1621849390443</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,7 +188,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="5-19" />
     <MESSAGE value="520" />
-    <option name="LAST_COMMIT_MESSAGE" value="520" />
+    <MESSAGE value="5-24" />
+    <option name="LAST_COMMIT_MESSAGE" value="5-24" />
   </component>
   <component name="WindowStateProjectService">
     <state x="479" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621839331868">
@@ -298,10 +228,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="722" y="397" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1619594917272" />
-    <state x="462" y="107" key="CommitChangelistDialog2" timestamp="1621473550860">
+    <state x="462" y="107" key="CommitChangelistDialog2" timestamp="1621849388776">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="462" y="107" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1621473550860" />
+    <state x="462" y="107" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1621849388776" />
     <state x="844" y="310" key="FileChooserDialogImpl" timestamp="1621839363688">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -314,38 +244,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="667" y="340" width="737" height="383" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621408543708" />
-    <state width="1877" height="333" key="GridCell.Tab.0.bottom" timestamp="1621483158602">
+    <state width="1877" height="482" key="GridCell.Tab.0.bottom" timestamp="1621850221968">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="333" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621483158602" />
-    <state width="1877" height="333" key="GridCell.Tab.0.center" timestamp="1621483158602">
+    <state width="1877" height="482" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621850221968" />
+    <state width="1877" height="482" key="GridCell.Tab.0.center" timestamp="1621850221967">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="333" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621483158602" />
-    <state width="1877" height="333" key="GridCell.Tab.0.left" timestamp="1621483158602">
+    <state width="1877" height="482" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621850221967" />
+    <state width="1877" height="482" key="GridCell.Tab.0.left" timestamp="1621850221966">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="333" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621483158602" />
-    <state width="1877" height="333" key="GridCell.Tab.0.right" timestamp="1621483158602">
+    <state width="1877" height="482" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621850221966" />
+    <state width="1877" height="482" key="GridCell.Tab.0.right" timestamp="1621850221967">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="333" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621483158602" />
-    <state width="1877" height="32" key="GridCell.Tab.1.bottom" timestamp="1621483158591">
+    <state width="1877" height="482" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621850221967" />
+    <state width="1877" height="482" key="GridCell.Tab.1.bottom" timestamp="1621850221968">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="32" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621483158591" />
-    <state width="1877" height="32" key="GridCell.Tab.1.center" timestamp="1621483158591">
+    <state width="1877" height="482" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621850221968" />
+    <state width="1877" height="482" key="GridCell.Tab.1.center" timestamp="1621850221968">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="32" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621483158591" />
-    <state width="1877" height="32" key="GridCell.Tab.1.left" timestamp="1621483158591">
+    <state width="1877" height="482" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621850221968" />
+    <state width="1877" height="482" key="GridCell.Tab.1.left" timestamp="1621850221968">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="32" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621483158591" />
-    <state width="1877" height="32" key="GridCell.Tab.1.right" timestamp="1621483158591">
+    <state width="1877" height="482" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621850221968" />
+    <state width="1877" height="482" key="GridCell.Tab.1.right" timestamp="1621850221968">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="32" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621483158591" />
+    <state width="1877" height="482" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621850221968" />
     <state width="1877" height="256" key="GridCell.Tab.2.bottom" timestamp="1620734084061">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
