@@ -3,7 +3,7 @@ package com.dao;
 import com.entity.User;
 import tk.mybatis.mapper.common.Mapper;
 
-import javax.jws.soap.SOAPBinding;
+
 import java.util.List;
 
 @org.apache.ibatis.annotations.Mapper
